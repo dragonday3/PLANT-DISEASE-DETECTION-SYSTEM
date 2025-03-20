@@ -4,3 +4,6 @@ The Plant Disease Detection System is a deep learning-based AI solution that hel
 **FEATURES**
 - **AI-Powered Detection**: Uses deep learning (CNN) to classify plant diseases.
 - **User-Friendly Interface**: Upload plant leaf images and get instant disease diagnosis.
+- **Real-Time Predictions**: Quick and accurate analysis for multiple plant diseases.
+- **High Accuracy Model**: Trained on the PlantVillage Dataset for precision.
+- 
