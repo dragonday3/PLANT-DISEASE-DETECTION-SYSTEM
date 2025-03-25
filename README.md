@@ -14,3 +14,7 @@ The Plant Disease Detection System is a deep learning-based AI solution that hel
 - **TensorFlow & Keras** - Deep Learning Framework
 - **OpenCV** - Image Processing
 - **NumPy & Pandas** - Data Manipulation
+- **Matplotlib & Seaborn** - Data Visualization
+- **Streamlit** - Web UI for easy image uploads and results display
+
+**PROJECT WORKFLOW**
