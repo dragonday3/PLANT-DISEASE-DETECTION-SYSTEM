@@ -18,3 +18,6 @@ The Plant Disease Detection System is a deep learning-based AI solution that hel
 - **Streamlit** - Web UI for easy image uploads and results display
 
 **PROJECT WORKFLOW**
+- **Data Collection** - Uses PlantVillage Dataset with healthy and diseased plant images.
+- **Data Preprocessing** - Resizes, normalizes, and augments images for better model accuracy.
+- 
