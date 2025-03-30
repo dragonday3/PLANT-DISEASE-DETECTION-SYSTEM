@@ -20,4 +20,5 @@ The Plant Disease Detection System is a deep learning-based AI solution that hel
 **PROJECT WORKFLOW**
 - **Data Collection** - Uses Dataset with healthy and diseased plant images.
 - **Data Preprocessing** - Resizes, normalizes, and augments images for better model accuracy.
-- Model Training - Developed a CNN model for disease classification.
+- **Model Training** - Developed a CNN model for disease classification.
+-  **Model Evaluation** - Measured performance using accuracy, precision, recall, and confusion matrix.
