@@ -26,3 +26,4 @@ The Plant Disease Detection System is a deep learning-based AI solution that hel
 
 **OUTPUT**
 ![Image](https://github.com/user-attachments/assets/981e6fa9-4f09-468c-83e3-b3afb4685a4e)
+![Image](https://github.com/user-attachments/assets/ef10d428-5e7d-4ff7-8db2-487999f2b436)
